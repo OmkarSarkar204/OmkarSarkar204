@@ -22,6 +22,9 @@
 </div>
 
 ###
+<img align="right" height="150" src="https://media.gifdb.com/call-of-duty-simon-ghost-riley-8mmx8tvltlafbekf.gif"/>
+
+###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=OmkarSarkar204&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
