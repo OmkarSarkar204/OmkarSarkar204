@@ -22,7 +22,6 @@
 </div>
 
 ###
-<img align="right" height="190" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnY2Y3o0aGM1dHY0eW5rMzhlZzJjeG45Z2ZxMTU0aGI0OHh6YTV1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uES0oXcxs0TVGE79Mu/giphy.gif"/>
 
 ###
 
