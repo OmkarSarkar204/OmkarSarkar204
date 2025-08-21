@@ -48,7 +48,7 @@ Here's a quick look at what I'm focused on right now:
 Email: **omkarsarkar24@gmail.com**
 
 <p align="center">
-  <a href="[YOUR LINKEDIN URL]" target="_blank">
+  <a href="[[YOUR LINKEDIN URL]](https://www.linkedin.com/in/omkar-sarkar-3560b5344/)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
   <a href="[YOUR PORTFOLIO/WEBSITE URL]" target="_blank">
