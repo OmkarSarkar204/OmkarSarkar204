@@ -27,14 +27,6 @@ I like building intelligent systems and solving complex problems, whether in cod
 When I'm not coding, I'm probably studying physics(Or the opposite). My passions lies in particle physics and astrophysics, I document my thoughts and explorations on my blog.
 
 
-Here's a quick look at what I'm focused on right now:
-
-•  **Learning:** Getting deeper into Go and MLOps best practices.
-
-•  **Building:** A new deep learning model from scratch.
-
-•  **Seeking:** Collaborators for open-source AI projects.
-
 <div align="center">
   <a href="https://orbrane.org" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=Read%20My%20Blog%20at%20Orbrane.org&color=5837D0&style=for-the-badge&logo=ghost&logoColor=white"/>
