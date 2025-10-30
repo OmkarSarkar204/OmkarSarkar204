@@ -82,7 +82,7 @@ Email: **omkarsarkar24@gmail.com**
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OmkarSarkar204&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" alt="languages graph" height="165"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=OmkarSarkar204&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" alt="streak graph" height="165"/>
+  <img src="![omkarsarkar204's Streak](https://github-readme-streak-stats.herokuapp.com/?user=omkarsarkar204&theme=onedark&hide_border=true)"/>
 </div>
 
 <picture>
