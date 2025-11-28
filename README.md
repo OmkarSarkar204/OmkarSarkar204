@@ -5,11 +5,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
   </h1>
   
- <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFAC1C&center=true&width=650&lines=Developing+Intelligent+Systems;Applying+Computational+Methods+to+Astrophysics;Exploring+Fundamental+Physics+through+Computation" alt="Typing SVG" />
-  </a>
-</p>
+ 
 
   
 
