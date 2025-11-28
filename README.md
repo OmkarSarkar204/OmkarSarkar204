@@ -71,15 +71,14 @@ Email: **omkarsarkar24@gmail.com**
 
 ---
 
-### GitHub Stats & Activity
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OmkarSarkar204&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" alt="github stats graph" height="165"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OmkarSarkar204&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" alt="languages graph" height="165"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="![omkarsarkar204's Streak](https://github-readme-streak-stats.herokuapp.com/?user=omkarsarkar204&theme=onedark&hide_border=true)"/>
-</div>
+</div> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmkarSarkar204/OmkarSarkar204/output/pacman-contribution-graph-dark.svg">
