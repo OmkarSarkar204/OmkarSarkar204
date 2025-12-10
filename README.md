@@ -38,20 +38,11 @@ Email: **omkarsarkar24@gmail.com**
 <p align="center">
   <a href="https://www.linkedin.com/in/omkar-sarkar-3560b5344/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="[YOUR PORTFOLIO/WEBSITE URL]" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=Firefox&label=&color=FF7139&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="portfolio logo"  />
-  </a>
-  <a href="[YOUR INSTAGRAM URL]" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo" />
-  </a>
+
 </p>
 
----
 
-### Tech Stack
-
-<p align="center">
+<!-- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,python,go,php,fortran" />
   </a>
@@ -67,9 +58,8 @@ Email: **omkarsarkar24@gmail.com**
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
   </a>
-</p>
+</p> -->
 
----
 
 
 <!-- <div align="center">
@@ -80,9 +70,9 @@ Email: **omkarsarkar24@gmail.com**
   <img src="![omkarsarkar204's Streak](https://github-readme-streak-stats.herokuapp.com/?user=omkarsarkar204&theme=onedark&hide_border=true)"/>
 </div> -->
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmkarSarkar204/OmkarSarkar204/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmkarSarkar204/OmkarSarkar204/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OmkarSarkar204/OmkarSarkar204/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 <!--force update-->
