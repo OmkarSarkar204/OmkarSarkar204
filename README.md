@@ -17,9 +17,6 @@
 I am a **Computer Science** Student with deep curiosity for both **technology** and the **universe**.
 I like building intelligent systems and solving complex problems, whether in code or in physics.
 
-### When bored of coding
-
-When I'm not coding, I'm probably studying physics(Or the opposite). My passions lies in particle physics and astrophysics, I document my thoughts and explorations on my blog.
 
 
 <div align="center">
