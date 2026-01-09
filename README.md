@@ -27,7 +27,6 @@ I like building intelligent systems and solving complex problems, whether in cod
 
 ---
 
-### Connect with me
 
 Email: **omkarsarkar24@gmail.com**
 
