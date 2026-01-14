@@ -1,22 +1,18 @@
-<div align="center">
-  
-  <h1 align="center">
-    Hi there, I'm Omkar Sarkar 
-  </h1>
-  
- 
+Hi, I’m Omkar Sarkar.
 
-  
+I’m a student researcher and open-source contributor working on quantum machine learning models with applications in astrophysics and particle physics. My interests lie at the intersection of machine learning, physics-driven modeling, and scientific software.
 
-</div>
+I actively contribute to open-source projects, focusing on correctness, testing, and maintainability in large codebases.
 
----
+## Research Background
+- Machine learning applications in particle physics  
+- Numerical and simulation-driven approaches to physical systems  
 
-### About Me
-
-I am a **Computer Science** Student with deep curiosity for both **technology** and the **universe**.
-I like building intelligent systems and solving complex problems, whether in code or in physics.
-
+## Interests & Collaboration
+I’m interested in collaborating on:
+- Robotics and autonomous control systems  
+- Scientific machine learning  
+- Open-source tools for research and engineering  
 
 
 <div align="center">
