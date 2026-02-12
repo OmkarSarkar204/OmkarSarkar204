@@ -2,7 +2,6 @@ Hi, I’m Omkar Sarkar.
 
 I’m a student researcher and open-source contributor working on quantum machine learning models with applications in astrophysics and particle physics. My interests lie at the intersection of machine learning, physics-driven modeling, and scientific software.
 
-I actively contribute to open-source projects, focusing on correctness, testing, and maintainability in large codebases.
 
 ## Research Background
 - Machine learning applications in particle physics  
