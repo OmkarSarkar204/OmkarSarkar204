@@ -20,8 +20,8 @@ I’m interested in collaborating on:
 
 
 <div align="center">
-  <a href="https://orbrane.org" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=Read%20My%20Blog%20at%20Orbrane.org&color=5837D0&style=for-the-badge&logo=ghost&logoColor=white"/>
+  <a href="https://orbrane.org/portfolio" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=Portfolio&color=5837D0&style=for-the-badge&logo=ghost&logoColor=white"/>
   </a>
 </div>
 
